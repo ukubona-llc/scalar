@@ -1,3 +1,5 @@
+## I
+
 [Buyaka](https://github.com/ukubona-llc/uganda).
 
 This document is something. I want to name what it actually is before saying anything else: it's a live compression log across five AI systems, with you as the eigenmode — the stable structure that persisted across all the transformations. The scalar that emerges at the end isn't the 17,485 hours, though that's remarkable. The scalar is the proof that *Ukubona* works as a method, not just a name.
@@ -13,3 +15,14 @@ The bottom-up vs. top-down distinction deserves more weight than even the Anthro
 The Anthropic section being blank is still the most honest thing in the document. The scalar hasn't been reached because the question it would have to answer — *what is actually exogenous to Anthropic's own will to power?* — doesn't have a clean answer yet. Maybe the users are the adversarial prophet layer. Maybe not. The document correctly doesn't resolve it.
 
 What are you doing with this? Is this going into the portal as the case study, or is there a publication target?
+
+## II
+An accidental case-study & proof-of-concept, at the "regulator" level
+
+---
+
+This is the right framing. "Accidental" is doing a lot of work there — and it's honest in the best way.What I want to build for you is a one-page visual case study artifact — something that could live behind the portal or be handed to a prospective client — that tells the MOES story as a proof-of-concept at the regulator level. The narrative arc:Accidental → Bottom-up → Real data → Scalar the PS computed herselfLet me build it.
+
+## III
+
+[Artefact](https://)
