@@ -25,4 +25,4 @@ This is the right framing. "Accidental" is doing a lot of work there — and it'
 
 ## III
 
-[Artefact](https://)
+[Artefact](https://ukubona-llc.github.io/case-study)
